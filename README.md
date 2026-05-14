@@ -18,7 +18,7 @@ To ensure a data-driven approach, every process node was evaluated through **7 t
 
 ---
 
-## 📊 Quantitative Analysis (As-Is)
+## Quantitative Analysis (As-Is)
 By applying these parameters, we calculated the **Weighted Value** for each macro-stage, revealing the true operational burden across the supply chain:
 
 | Macro-Process | Weighted Value | Impact Percentage | Technology Status |
