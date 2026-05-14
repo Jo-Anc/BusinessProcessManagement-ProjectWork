@@ -1,4 +1,4 @@
-# 📦 BPM Analysis & Logistics Optimization: Poste Italiane
+# BPM Analysis & Logistics Optimization: Poste Italiane
 
 ##  Project Overview
 This repository presents an in-depth **Business Process Management (BPM)** analysis of the parcel delivery lifecycle at Poste Italiane. The project aims to map the "As-Is" state, quantify operational gaps using a 7-parameter scoring model, and propose a "To-Be" digital transformation to reduce failed delivery rates and optimize the "First-Time Hit" success.
@@ -43,15 +43,9 @@ To mitigate the weight of the delivery phase, the redesign focuses on 4 technolo
 
 ## Repository Structure
 * `POSTE ITALIANE.pdf`: Full technical report including parametrization tables.
-* `poste_flowchart.pdf`: Visual process mapping (Miro export).
+* `Poste-AsIS-Flowchart`: Visual process mapping (Miro export).
 * `github_bpm_preview.png`: Data dashboard summarizing project metrics.
 
 ---
 
-##  Git Workflow
-This project utilizes version control to ensure the traceability of process model iterations:
-```bash
-# Standard update workflow
-git add .
-git commit -m "Updated quantitative parameters and percentage impact analysis"
-git push origin main
+
